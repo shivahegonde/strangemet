@@ -168,11 +168,30 @@ body{
 
 
 /* Button */
-.video{
-    width: 97%;
-    height: 97%;
+.video{  
+	left:8px;
+	bottom:8px;
+	width:500px;	
     border-radius: 5px;
+}
 
+#local_video{
+	left:0;
+	bottom:0;
+	border-bottom-left-radius:.5em;
+	-moz-border-radius-bottomleft:.5em;
+	-webkit-border-bottom-left-radius:.5em
+}
+#remote_video{
+	left:0;
+	top:0;
+	border-top-left-radius:.5em;
+	-moz-border-radius-topleft:.5em;
+	-webkit-border-top-left-radius:.5em
+}
+#local_video,#remote_video{
+	display:block;
+	background:#555
 }
 
 #loading{
