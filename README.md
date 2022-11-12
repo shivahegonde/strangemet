@@ -1,4 +1,4 @@
-# Chat Valley
+# StrangeMet
 
 > This is video chatting application. You can chat random strangers from around the world.
 
