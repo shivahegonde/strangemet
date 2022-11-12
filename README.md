@@ -17,7 +17,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://chat-valley.herokuapp.com/)
+[Live Demo Link](https://chat-valley.onrender.com/)
 
 
 
@@ -35,15 +35,15 @@ In your command prompt, you need to run `npm install` to get required packages a
 
 👤 **Htetaungkyaw**
 
-- GitHub: [@githubhandle](https://github.com/Htetaungkyaw71)
-- Twitter: [@twitterhandle](https://twitter.com/htetaun91907337)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/htet-aung-kyaw-9a77271a7/)
+- GitHub: [@githubhandle](https://github.com/shivahegonde)
+- Twitter: [@twitterhandle](https://twitter.com/shiva_hegonde)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shivahegonde/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Htetaungkyaw71/Chat-Valley/issues).
+Feel free to check the [issues page](https://github.com/shivahegonde/strangemet/issues).
 
 ## Show your support
 
